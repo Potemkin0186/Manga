@@ -28,6 +28,22 @@
         "/a/nonymous": "/proxy/api/imgur/chapter/nXoFhLJ/"
       },
       "last_updated": "1616368746"
-    }
+    },
+    "<4>": {
+      "title": "Senpai's wish just came true!!",
+      "volume": "1",
+      "groups": {
+        "/a/nonymous": "/proxy/api/imgur/chapter/YVegPwe/"
+      },
+      "last_updated": "1616368746"
+    },
+    "5": {
+      "title": "Senpai, please brush your teeth",
+      "volume": "1",
+      "groups": {
+        "<group name>": "/proxy/api/imgur/chapter/9DrX7v1/"
+      },
+      "last_updated": "1616368746"
+    },
   }
 }
